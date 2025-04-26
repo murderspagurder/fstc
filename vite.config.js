@@ -8,5 +8,5 @@ export default defineConfig({
       svelte(),
       tailwindcss(),
   ],
-    base: '/fstc/',
+  base: '/fstc/',
 })
